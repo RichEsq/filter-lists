@@ -1,2 +1,2 @@
 ! reddit ads
-old.reddit.com###promotedlink
+old.reddit.com###.promotedlink
